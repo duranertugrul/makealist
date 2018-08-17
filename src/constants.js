@@ -1,0 +1,3 @@
+export const SIGNED_IN = 'SIGNED_IN';
+export const SET_LIST_HEADERS = 'SET_LIST_HEADERS';
+export const SET_FRIEND_LIST = 'SET_FRIEND_LIST';
